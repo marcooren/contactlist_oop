@@ -1,0 +1,20 @@
+{
+    "name": "contactlist_oop",
+    "version": "1.0.0",
+    "description": "",
+    "main": "contacts.js",
+    "scripts": {
+        "start": "index.html",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/marcooren/contactlist_oop.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/marcooren/contactlist_oop/issues"
+    },
+    "homepage": "https://github.com/marcooren/contactlist_oop#readme"
+}
